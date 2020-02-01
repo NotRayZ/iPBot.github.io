@@ -1,0 +1,11 @@
+{
+    "name": "iPakistani",
+    "version": "1.0",
+    "description": "Official iPakistani Clan's Discord Bot.",
+    "main": "Index.js",
+    "author": "Rayan Aziz",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
